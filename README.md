@@ -1,5 +1,4 @@
-# readme
-## El Thobhy Profile
+# El Thobhy Profile
 
 Hy Guys, i'm Auriwan Yasper, an Android Developer (self claim Lol). But that's for real, i have android an app in google play store, you can check it out on this [link](https://play.google.com/store/apps/details?id=com.aljebrastudio.islamicstory&pcampaignid=web_share) hehe. I'm stil in progress to develop for all feature, so i'm really sorry for the simple feature hehe. 
 
