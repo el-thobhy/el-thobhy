@@ -3,7 +3,7 @@
 Hy Guys, i'm Auriwan Yasper, an Android Developer. I have an android app in google play store, you can check it out on this [link](https://play.google.com/store/apps/dev?id=4731263920961188643). I'm stil in progress to develop for all feature, so i'm really sorry for the simple feature. 
 
 here are my android app project:
-- [Islamic Story Github link](https://github.com/elthobhy-studio/islamic-story-android), [Playstore Link](https://play.google.com/store/apps/dev?id=4731263920961188643). Tech Stack: Firebase Database, Clean Architecture, MVVM, Dependency Injection, Room Database. 
+- [Islamic Story Github link](https://github.com/elthobhy-studio/islamic-story-android), [Playstore Link](https://play.google.com/store/apps/details?id=com.aljebrastudio.islamicstory). Tech Stack: Firebase Database, Clean Architecture, MVVM, Dependency Injection, Room Database. 
 - [Catalog Movie](https://github.com/el-thobhy/Catalog-Movie). Tech Stack: MovieDB API, Clean Architecture, MVVM, Dependency Injection, Room Database, continuous integration, Application security, SSL Pinning, retrofit, lottiefiles, shimmer layout.
 - [News App](https://github.com/el-thobhy/News-App). Tech stack: same as above
   
