@@ -1,6 +1,6 @@
 # El Thobhy Profile
 
-Hy Guys, i'm Auriwan Yasper, an Android Developer (self claim Lol). But that's for real, i have an android app in google play store, you can check it out on this [link](https://play.google.com/store/apps/dev?id=4731263920961188643) hehe. I'm stil in progress to develop for all feature, so i'm really sorry for the simple feature hehe. 
+Hy Guys, i'm Auriwan Yasper, an Android Developer. I have an android app in google play store, you can check it out on this [link](https://play.google.com/store/apps/dev?id=4731263920961188643). I'm stil in progress to develop for all feature, so i'm really sorry for the simple feature. 
 
 here are my android app project:
 - [Islamic Story Github link](https://github.com/elthobhy-studio/islamic-story-android), [Playstore Link](https://play.google.com/store/apps/dev?id=4731263920961188643). Tech Stack: Firebase Database, Clean Architecture, MVVM, Dependency Injection, Room Database. 
